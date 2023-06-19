@@ -1,0 +1,131 @@
+[
+  {"id":"1","name":"Goroka","city":"Goroka","country":"Papua New Guinea","iata":"GKA","icao":"AYGA","latitude":"-6.081689","longitude":"145.391881","altitude":"5282","timezone":"10","dst":"U","tz":"Pacific/Port_Moresby"}
+  ,
+  {"id":"2","name":"Madang","city":"Madang","country":"Papua New Guinea","iata":"MAG","icao":"AYMD","latitude":"-5.207083","longitude":"145.7887","altitude":"20","timezone":"10","dst":"U","tz":"Pacific/Port_Moresby"}
+  ,
+  {"id":"3","name":"Mount Hagen","city":"Mount Hagen","country":"Papua New Guinea","iata":"HGU","icao":"AYMH","latitude":"-5.826789","longitude":"144.295861","altitude":"5388","timezone":"10","dst":"U","tz":"Pacific/Port_Moresby"}
+  ,
+  {"id":"4","name":"Nadzab","city":"Nadzab","country":"Papua New Guinea","iata":"LAE","icao":"AYNZ","latitude":"-6.569828","longitude":"146.726242","altitude":"239","timezone":"10","dst":"U","tz":"Pacific/Port_Moresby"}
+  ,
+  {"id":"5","name":"Port Moresby Jacksons Intl","city":"Port Moresby","country":"Papua New Guinea","iata":"POM","icao":"AYPY","latitude":"-9.443383","longitude":"147.22005","altitude":"146","timezone":"10","dst":"U","tz":"Pacific/Port_Moresby"}
+  ,
+  {"id":"6","name":"Wewak Intl","city":"Wewak","country":"Papua New Guinea","iata":"WWK","icao":"AYWK","latitude":"-3.583828","longitude":"143.669186","altitude":"19","timezone":"10","dst":"U","tz":"Pacific/Port_Moresby"}
+  ,
+  {"id":"7","name":"Narsarsuaq","city":"Narssarssuaq","country":"Greenland","iata":"UAK","icao":"BGBW","latitude":"61.160517","longitude":"-45.425978","altitude":"112","timezone":"-3","dst":"E","tz":"America/Godthab"}
+  ,
+  {"id":"8","name":"Nuuk","city":"Godthaab","country":"Greenland","iata":"GOH","icao":"BGGH","latitude":"64.190922","longitude":"-51.678064","altitude":"283","timezone":"-3","dst":"E","tz":"America/Godthab"}
+  ,
+  {"id":"9","name":"Sondre Stromfjord","city":"Sondrestrom","country":"Greenland","iata":"SFJ","icao":"BGSF","latitude":"67.016969","longitude":"-50.689325","altitude":"165","timezone":"-3","dst":"E","tz":"America/Godthab"}
+  ,
+  {"id":"10","name":"Thule Air Base","city":"Thule","country":"Greenland","iata":"THU","icao":"BGTL","latitude":"76.531203","longitude":"-68.703161","altitude":"251","timezone":"-4","dst":"E","tz":"America/Thule"}
+  ,
+  {"id":"11","name":"Akureyri","city":"Akureyri","country":"Iceland","iata":"AEY","icao":"BIAR","latitude":"65.659994","longitude":"-18.072703","altitude":"6","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"12","name":"Egilsstadir","city":"Egilsstadir","country":"Iceland","iata":"EGS","icao":"BIEG","latitude":"65.283333","longitude":"-14.401389","altitude":"76","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"13","name":"Hornafjordur","city":"Hofn","country":"Iceland","iata":"HFN","icao":"BIHN","latitude":"64.295556","longitude":"-15.227222","altitude":"24","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"14","name":"Husavik","city":"Husavik","country":"Iceland","iata":"HZK","icao":"BIHU","latitude":"65.952328","longitude":"-17.425978","altitude":"48","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"15","name":"Isafjordur","city":"Isafjordur","country":"Iceland","iata":"IFJ","icao":"BIIS","latitude":"66.058056","longitude":"-23.135278","altitude":"8","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"16","name":"Keflavik International Airport","city":"Keflavik","country":"Iceland","iata":"KEF","icao":"BIKF","latitude":"63.985","longitude":"-22.605556","altitude":"171","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"17","name":"Patreksfjordur","city":"Patreksfjordur","country":"Iceland","iata":"PFJ","icao":"BIPA","latitude":"65.555833","longitude":"-23.965","altitude":"11","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"18","name":"Reykjavik","city":"Reykjavik","country":"Iceland","iata":"RKV","icao":"BIRK","latitude":"64.13","longitude":"-21.940556","altitude":"48","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"19","name":"Siglufjordur","city":"Siglufjordur","country":"Iceland","iata":"SIJ","icao":"BISI","latitude":"66.133333","longitude":"-18.916667","altitude":"10","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"20","name":"Vestmannaeyjar","city":"Vestmannaeyjar","country":"Iceland","iata":"VEY","icao":"BIVM","latitude":"63.424303","longitude":"-20.278875","altitude":"326","timezone":"0","dst":"N","tz":"Atlantic/Reykjavik"}
+  ,
+  {"id":"21","name":"Sault Ste Marie","city":"Sault Sainte Marie","country":"Canada","iata":"YAM","icao":"CYAM","latitude":"46.485001","longitude":"-84.509445","altitude":"630","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"22","name":"Winnipeg St Andrews","city":"Winnipeg","country":"Canada","iata":"YAV","icao":"CYAV","latitude":"50.056389","longitude":"-97.0325","altitude":"760","timezone":"-6","dst":"A","tz":"America/Winnipeg"}
+  ,
+  {"id":"23","name":"Shearwater","city":"Halifax","country":"Canada","iata":"YAW","icao":"CYAW","latitude":"44.639721","longitude":"-63.499444","altitude":"167","timezone":"-4","dst":"A","tz":"America/Halifax"}
+  ,
+  {"id":"24","name":"St Anthony","city":"St. Anthony","country":"Canada","iata":"YAY","icao":"CYAY","latitude":"51.391944","longitude":"-56.083056","altitude":"108","timezone":"-3.5","dst":"A","tz":"America/St_Johns"}
+  ,
+  {"id":"25","name":"Tofino","city":"Tofino","country":"Canada","iata":"YAZ","icao":"CYAZ","latitude":"49.082222","longitude":"-125.7725","altitude":"80","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"26","name":"Kugaaruk","city":"Pelly Bay","country":"Canada","iata":"YBB","icao":"CYBB","latitude":"68.534444","longitude":"-89.808056","altitude":"56","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"27","name":"Baie Comeau","city":"Baie Comeau","country":"Canada","iata":"YBC","icao":"CYBC","latitude":"49.1325","longitude":"-68.204444","altitude":"71","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"28","name":"Bagotville","city":"Bagotville","country":"Canada","iata":"YBG","icao":"CYBG","latitude":"48.330555","longitude":"-70.996391","altitude":"522","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"29","name":"Baker Lake","city":"Baker Lake","country":"Canada","iata":"YBK","icao":"CYBK","latitude":"64.298889","longitude":"-96.077778","altitude":"59","timezone":"-6","dst":"A","tz":"America/Winnipeg"}
+  ,
+  {"id":"30","name":"Campbell River","city":"Campbell River","country":"Canada","iata":"YBL","icao":"CYBL","latitude":"49.950832","longitude":"-125.270833","altitude":"346","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"31","name":"Brandon Muni","city":"Brandon","country":"Canada","iata":"YBR","icao":"CYBR","latitude":"49.91","longitude":"-99.951944","altitude":"1343","timezone":"-6","dst":"A","tz":"America/Winnipeg"}
+  ,
+  {"id":"32","name":"Cambridge Bay","city":"Cambridge Bay","country":"Canada","iata":"YCB","icao":"CYCB","latitude":"69.108055","longitude":"-105.138333","altitude":"90","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"33","name":"Nanaimo","city":"Nanaimo","country":"Canada","iata":"YCD","icao":"CYCD","latitude":"49.052333","longitude":"-123.870167","altitude":"93","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"34","name":"Castlegar","city":"Castlegar","country":"Canada","iata":"YCG","icao":"CYCG","latitude":"49.296389","longitude":"-117.6325","altitude":"1624","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"35","name":"Miramichi","city":"Chatham","country":"Canada","iata":"YCH","icao":"CYCH","latitude":"47.007778","longitude":"-65.449167","altitude":"108","timezone":"-4","dst":"A","tz":"America/Halifax"}
+  ,
+  {"id":"36","name":"Charlo","city":"Charlo","country":"Canada","iata":"YCL","icao":"CYCL","latitude":"47.990833","longitude":"-66.330278","altitude":"132","timezone":"-4","dst":"A","tz":"America/Halifax"}
+  ,
+  {"id":"37","name":"Kugluktuk","city":"Coppermine","country":"Canada","iata":"YCO","icao":"CYCO","latitude":"67.816667","longitude":"-115.143889","altitude":"74","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"38","name":"Coronation","city":"Coronation","country":"Canada","iata":"YCT","icao":"CYCT","latitude":"52.075001","longitude":"-111.445278","altitude":"2595","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"39","name":"Chilliwack","city":"Chilliwack","country":"Canada","iata":"YCW","icao":"CYCW","latitude":"49.152779","longitude":"-121.93889","altitude":"32","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"40","name":"Clyde River","city":"Clyde River","country":"Canada","iata":"YCY","icao":"CYCY","latitude":"70.486111","longitude":"-68.516667","altitude":"87","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"41","name":"Fairmont Hot Springs","city":"Coral Harbour","country":"Canada","iata":"YZS","icao":"CYCZ","latitude":"64.193333","longitude":"-83.359444","altitude":"2661","timezone":"-5","dst":"A","tz":"America/Coral_Harbour"}
+  ,
+  {"id":"42","name":"Dawson City","city":"Dawson","country":"Canada","iata":"YDA","icao":"CYDA","latitude":"64.043056","longitude":"-139.127778","altitude":"1215","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"43","name":"Burwash","city":"Burwash","country":"Canada","iata":"YDB","icao":"CYDB","latitude":"61.371111","longitude":"-139.040556","altitude":"2647","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"44","name":"Princeton","city":"Princeton","country":"Canada","iata":"YDC","icao":"CYDC","latitude":"49.468056","longitude":"-120.511389","altitude":"2298","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"45","name":"Deer Lake","city":"Deer Lake","country":"Canada","iata":"YDF","icao":"CYDF","latitude":"49.210833","longitude":"-57.391388","altitude":"72","timezone":"-3.5","dst":"A","tz":"America/St_Johns"}
+  ,
+  {"id":"46","name":"Dease Lake","city":"Dease Lake","country":"Canada","iata":"YDL","icao":"CYDL","latitude":"58.422222","longitude":"-130.032222","altitude":"2600","timezone":"-8","dst":"A","tz":"America/Vancouver"}
+  ,
+  {"id":"47","name":"Dauphin Barker","city":"Dauphin","country":"Canada","iata":"YDN","icao":"CYDN","latitude":"51.100834","longitude":"-100.0525","altitude":"999","timezone":"-6","dst":"A","tz":"America/Winnipeg"}
+  ,
+  {"id":"48","name":"Dawson Creek","city":"Dawson Creek","country":"Canada","iata":"YDQ","icao":"CYDQ","latitude":"55.742333","longitude":"-120.183","altitude":"2148","timezone":"-7","dst":"A","tz":"America/Dawson_Creek"}
+  ,
+  {"id":"49","name":"Edmonton Intl","city":"Edmonton","country":"Canada","iata":"YEG","icao":"CYEG","latitude":"53.309723","longitude":"-113.579722","altitude":"2373","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"50","name":"Arviat","city":"Eskimo Point","country":"Canada","iata":"YEK","icao":"CYEK","latitude":"61.094166","longitude":"-94.070833","altitude":"32","timezone":"-6","dst":"A","tz":"America/Winnipeg"}
+  ,
+  {"id":"51","name":"Estevan","city":"Estevan","country":"Canada","iata":"YEN","icao":"CYEN","latitude":"49.210278","longitude":"-102.965833","altitude":"1905","timezone":"-6","dst":"N","tz":"America/Regina"}
+  ,
+  {"id":"52","name":"Edson","city":"Edson","country":"Canada","iata":"YET","icao":"CYET","latitude":"53.578888","longitude":"-116.465","altitude":"3041","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"53","name":"Eureka","city":"Eureka","country":"Canada","iata":"YEU","icao":"CYEU","latitude":"79.994722","longitude":"-85.814167","altitude":"256","timezone":"-6","dst":"A","tz":"America/Winnipeg"}
+  ,
+  {"id":"54","name":"Inuvik Mike Zubko","city":"Inuvik","country":"Canada","iata":"YEV","icao":"CYEV","latitude":"68.304167","longitude":"-133.482778","altitude":"224","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"55","name":"Iqaluit","city":"Iqaluit","country":"Canada","iata":"YFB","icao":"CYFB","latitude":"63.75639","longitude":"-68.555832","altitude":"110","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"56","name":"Fredericton","city":"Fredericton","country":"Canada","iata":"YFC","icao":"CYFC","latitude":"45.868889","longitude":"-66.537222","altitude":"68","timezone":"-4","dst":"A","tz":"America/Halifax"}
+  ,
+  {"id":"57","name":"Forestville","city":"Forestville","country":"Canada","iata":"","icao":"CYFE","latitude":"48.746111","longitude":"-69.097222","altitude":"293","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"58","name":"Flin Flon","city":"Flin Flon","country":"Canada","iata":"YFO","icao":"CYFO","latitude":"54.678055","longitude":"-101.681667","altitude":"997","timezone":"-6","dst":"A","tz":"America/Winnipeg"}
+  ,
+  {"id":"59","name":"Fort Resolution","city":"Fort Resolution","country":"Canada","iata":"YFR","icao":"CYFR","latitude":"61.180832","longitude":"-113.689722","altitude":"526","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"60","name":"Fort Simpson","city":"Fort Simpson","country":"Canada","iata":"YFS","icao":"CYFS","latitude":"61.760153","longitude":"-121.236525","altitude":"555","timezone":"-7","dst":"A","tz":"America/Edmonton"}
+  ,
+  {"id":"61","name":"Kingston","city":"Kingston","country":"Canada","iata":"YGK","icao":"CYGK","latitude":"44.225277","longitude":"-76.596944","altitude":"305","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"62","name":"La Grande Riviere","city":"La Grande Riviere","country":"Canada","iata":"YGL","icao":"CYGL","latitude":"53.625278","longitude":"-77.704167","altitude":"639","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"63","name":"Gaspe","city":"Gaspe","country":"Canada","iata":"YGP","icao":"CYGP","latitude":"48.775278","longitude":"-64.478611","altitude":"108","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"64","name":"Geraldton Greenstone Regional","city":"Geraldton","country":"Canada","iata":"YGQ","icao":"CYGQ","latitude":"49.778332","longitude":"-86.939445","altitude":"1144","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ,
+  {"id":"65","name":"Iles De La Madeleine","city":"Iles De La Madeleine","country":"Canada","iata":"YGR","icao":"CYGR","latitude":"47.424721","longitude":"-61.778056","altitude":"35","timezone":"-5","dst":"A","tz":"America/Toronto"}
+  ]
