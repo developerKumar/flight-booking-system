@@ -1,3 +1,4 @@
+/* eslint react/no-children-prop: 0 */
 import { fireEvent, render } from "@testing-library/react";
 import { AutoCompleteTextFieldRender } from "./AutoCompleteTextFieldRender";
 
